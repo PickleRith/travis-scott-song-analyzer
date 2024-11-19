@@ -1,0 +1,1676 @@
+{
+ "_type": "album",
+ "api_path": "/albums/658776",
+ "cover_art_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+ "full_title": "UTOPIA by Travis Scott",
+ "id": 658776,
+ "name": "UTOPIA",
+ "name_with_artist": "UTOPIA (artist: Travis Scott)",
+ "primary_artist_names": "Travis Scott",
+ "release_date_components": {
+  "year": 2023,
+  "month": 7,
+  "day": 28
+ },
+ "release_date_for_display": "July 28, 2023",
+ "url": "https://genius.com/albums/Travis-scott/Utopia",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/20185",
+  "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+  "id": 20185,
+  "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Travis Scott",
+  "slug": "Travis-scott",
+  "url": "https://genius.com/artists/Travis-scott",
+  "iq": 6452
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/20185",
+   "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+   "id": 20185,
+   "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+   "index_character": "t",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Travis Scott",
+   "slug": "Travis-scott",
+   "url": "https://genius.com/artists/Travis-scott",
+   "iq": 6452
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 23,
+    "api_path": "/songs/9368445",
+    "artist_names": "Travis Scott",
+    "full_title": "HYAENA by\u00a0Travis\u00a0Scott",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9368445,
+    "instrumental": false,
+    "lyrics_owner_id": 1599419,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721079457,
+    "path": "/Travis-scott-hyaena-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 24,
+    "relationships_index_url": "https://genius.com/Travis-scott-hyaena-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 12,
+     "hot": false,
+     "pageviews": 481959
+    },
+    "title": "HYAENA",
+    "title_with_featured": "HYAENA",
+    "updated_by_human_at": 1721079457,
+    "url": "https://genius.com/Travis-scott-hyaena-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "162 ContributorsTranslationsPortugu\u00easEspa\u00f1olT\u00fcrk\u00e7e\u0420\u0443\u0441\u0441\u043a\u0438\u0439\ud55c\uad6d\uc5b4ItalianoDeutschFran\u00e7aisHYAENA Lyrics\nThe situation we are in at this time\nNeither a good one, nor is it so unblessed\nIt can change, it can stay the same\nI can say, I can make my claim\nHail, hail, hail\n\nYeah\nOkay, this shit is outta control\nI'm drivin' through Hell and I done brought snow\nIt's shinin' in here, then I done brought glow\nI hear the sirens right out the chateau, run me the info\nTryna hear what you did, not how you came close\n'Cause I get bobblehead like I done made pro\nI made Italian bread like I done made dough\nI be all around the map\nWrite a show 'bout myself like I'm Chelsea Handler\nOr write a series 'bout my bitches like I'm Kelsey Grammer\nNicknamed the jet Jayhawk 'cause it's outta Kansas\nYou know it's Spaldin' in my top, I'm in my esperanza\nYou know it's slammin' wall to wall\nWe gotta fill the stands up with slaps and the anthems\nPoetic justice, I got you in all my stanzas\nWith your model stances, you everything I know about it\nYou might also like\nKnow about it, know about it\nKnow about it, know about it (Ah)\nKnow about it, know about it\nKnow about it, know about it\n\nWhat we know\nWhere you shall go\nPower, ah\n\nUh, yeah\nC-notes, B-notes, I took the biggest boat\nWe stayed down for life, it's like a jingle to do 'em all\nWe too much involved to spend a single ounce of time\nShe bust a whole ounce by doin' lines\nI had to leave, like the leaves do trees\nI'm finally home, I wiped the stress, then I touched that sweat\nWe took 'em 35 to 1 like this shit roulette\nHold up, beg your pardon, we done lit up, baby\nSet up, told the preacher, \"Never finish,\" that's to say the least\nBuy it, never lease it, but I gotta lease it\nMobile, Mona type of pieces, Met Gala, night Jesus\nSkip it, hit the city, party pack, I got it with me\nI'm shotty while I let you with me\nI'm too bent to let you ride, barely 'til it's empty\nGotta feel me, pockets dumb fat and I got a skinny\nSquad is with me, and that's everything I know about it\nI know about it, I know about it\nI know about it, I know about it\nI know about it, I know about it\nI know about it, I know about it\nI know about it, I know about it\nI know about it, I know about it\n\nMother Earth is pregnant for the third time\nFor y'all have knocked her up\nI have tasted the maggots in the mind of the universe\nI was not offended\nFor I knew I had to rise above it all\nOr drown in my own shit24Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/9368446",
+    "artist_names": "Travis Scott",
+    "full_title": "THANK GOD by\u00a0Travis\u00a0Scott",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9368446,
+    "instrumental": false,
+    "lyrics_owner_id": 498964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722183456,
+    "path": "/Travis-scott-thank-god-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 17,
+    "relationships_index_url": "https://genius.com/Travis-scott-thank-god-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 542573
+    },
+    "title": "THANK GOD",
+    "title_with_featured": "THANK GOD",
+    "updated_by_human_at": 1730787475,
+    "url": "https://genius.com/Travis-scott-thank-god-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "137 ContributorsTranslationsPortugu\u00easEspa\u00f1olT\u00fcrk\u00e7e\u0420\u0443\u0441\u0441\u043a\u0438\u0439Deutsch\ud55c\uad6d\uc5b4ItalianoTHANK GOD Lyrics\nI won't doubt it, I won't\nHe won't mislead all His followers\nPrayin' on the process, mind and spirit\nFeel like\nLike I'm\nFloatin' in my prime time\n\nOne life, live it right now\nOne life, live it in\n\nGoodbyes, that's life\nFun times for life\nFor life, from down my eyes\nThank God I'm free tonight\n\nGot God on the line\nTell the devil I'm fine\nHe always tryin'\nTryin' his best (No question)\nTop of the pole\nMe and my bros\nWhen the story get told\nIt's gon' be BMF (Muchas gracias)\nThis shit sound hard\nIt wasn't made easy\nYou can't live twice\nThank God I'm br\u0435athin' (We gon' fuck it up)\nWe gotta go now\nYou might also like\nOne lif\u0435, live it right now\nOne life, live it in\n\nGoodbyes, that's life\nFun times for life\nFor life, from down my eyes\nThank God I breathe tonight (Fuck it up)\n\nOh\n\nStill no pressure\nThank God, I breathe\n'Cause shit I speak is what they need, I tell no lies\nI'm still up top, they still can't drop, but what if they not? (Uh)\nYeah (Yeah)\nLast tape was filled up with slaps, I guess gotta run this shit back\nDidn't like the way that shit went down at the awards, I admit it, it turned to a beast\nThis that shit right here that get me goin', after I pop me a piece\nWay that we killin' the critics and killin' the hate, might gotta talk to a priest\nThe way we evolved and knocked down walls, this shit's outrageous (Ooh)\nA quarterback calls, I don't like 12, except Tom Brady\nCan't short my stock, I still stack tall, you still can't trade me\nStorm's a minor but you know she livin' major (That's right, daddy)\nWhen you flyin' up this high, it ain't no cables\nShit so lit, what happen in Vegas, it stay in Vegas\nMornin' time, we check the news, we made the papers17Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/9368453",
+    "artist_names": "Travis Scott (Ft. Teezo Touchdown)",
+    "full_title": "MODERN JAM by\u00a0Travis\u00a0Scott (Ft.\u00a0Teezo\u00a0Touchdown)",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9368453,
+    "instrumental": false,
+    "lyrics_owner_id": 1599419,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1720919384,
+    "path": "/Travis-scott-modern-jam-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 15,
+    "relationships_index_url": "https://genius.com/Travis-scott-modern-jam-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 514498
+    },
+    "title": "MODERN JAM",
+    "title_with_featured": "MODERN JAM (Ft.\u00a0Teezo\u00a0Touchdown)",
+    "updated_by_human_at": 1730787552,
+    "url": "https://genius.com/Travis-scott-modern-jam-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1399903",
+      "header_image_url": "https://images.genius.com/159b3cacb7c9ca6ec266f71dc78f3b14.1000x475x1.jpg",
+      "id": 1399903,
+      "image_url": "https://images.genius.com/0ae9884dfa0970da60803786f5adf36c.884x884x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Teezo Touchdown",
+      "slug": "Teezo-touchdown",
+      "url": "https://genius.com/artists/Teezo-touchdown"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "189 ContributorsTranslationsEspa\u00f1olPortugu\u00easDeutsch\u0420\u0443\u0441\u0441\u043a\u0438\u0439\ud55c\uad6d\uc5b4T\u00fcrk\u00e7eItalianoMODERN JAM Lyrics\nYeah-yeah, yeah-yeah, turn it up, my headphones\nTo the maker, vibrator\nRoof shaker, earthquaker\nAnnihilator\nYeah\n\nBaby, please get off the 'Gram\nI like you better in the stands\nI upgrade my only fan\nIt do or don't need a cam'\nThis right here my new modern jam\nI'm on fire, the new burnin' man\nShe paid to view, that's an on-demand\nHey, Guy-Man, brought him home from France\nThis shit punk, put it on the Bible\nI like a bi girl on a bi-cycle\nThen I bought a car, now she feel entitled\nMy dick so hard, pokin' lik\u0435 the Eiffel\nI just need the world, I ain't hard to pl\u0435ase\nWay I keep the knowledge, think I'm Socrates\nI got 'em levitatin' way off their knees\nThe way I make it jump, I make it hard to breathe, it's like\n\nBright, tight\nThe annihilator, forever favor\nTrue upgrader, you a shaker\nCar breaker\nYou might also like\nBaby, don't you know I got to go?\nGot the glow and it got to show\nKnow it's been a year since I seen the road\nHad me inside like I'm on parole\nI'm outside like I'm on patrol\nI hear the zeitgeist, now I'm in the zone\nYou know they say you up when you finally free\nIt won't feel right if it's only me\nIf you're scared, nigga, say your grace\nI got the formula like I own the race\nI got the keys with me like I own the place\nIf these niggas on top, then I'm outta space\nI'd rather spend it on you than on Uncle Sam\nGive this shit my all but don't give a damn\nEven in the winter, it's a summer jam\nI told her buckle up 'cause it's goin' down, it's like\n\nBright\nTruth breaker, heartthrob, baby\nFeather skater, you true raider\nDaka-doo-doo-da-da\n\nUh-uh, I know you're lyin'\nOutside waitin' in the line\nGettin' dough one at a time (Oh)\nUh-uh, I know you're lyin'\nOutside waitin' in the line\nGettin' dough one at a time (Oh)\nBounce, baby, I'm in the buildin', baby\nDo it, baby, you got my consent, baby\nOh, this the remix, oh, this the remix\nBefore she let me in, she gotta pat me down\nBefore she let me in, she gotta pat me down\nThe annihilator\nForever favor15Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 28,
+    "api_path": "/songs/9368452",
+    "artist_names": "Travis Scott",
+    "full_title": "MY EYES by\u00a0Travis\u00a0Scott",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9368452,
+    "instrumental": false,
+    "lyrics_owner_id": 14287967,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1729475955,
+    "path": "/Travis-scott-my-eyes-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 35,
+    "relationships_index_url": "https://genius.com/Travis-scott-my-eyes-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 9,
+     "concurrents": 4,
+     "hot": false,
+     "pageviews": 1377474
+    },
+    "title": "MY EYES",
+    "title_with_featured": "MY EYES",
+    "updated_by_human_at": 1729475956,
+    "url": "https://genius.com/Travis-scott-my-eyes-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "268 ContributorsTranslationsEspa\u00f1olPortugu\u00easT\u00fcrk\u00e7e\ud55c\uad6d\uc5b4DeutschItaliano\u0420\u0443\u0441\u0441\u043a\u0438\u0439MY EYES Lyrics\n\nWhen I stare in your eyes\nYou'll be there forever\nTo watch our life (To watch our life together)\nYou just like going to Heaven (My heart)\nMore than anything (Oh, yeah, oh, yeah, oh, yeah, oh, yeah)\nI'm fallin' and I'm drownin'\nBut you're takin' me\n\nOne thousand on my feet, stacks spreaded on my seat\nTen thousand on my eyes (Eyes)\n\nRollie Pollie on my wrist\nGotta make a flight, big day, slummin' no FaceTime\n50K, wonderin' why I'm stormin' off, no race\nEmboldened by the bliss\nI was sworn in by a kiss\nLat\u0435 from the country caters\nNo peac\u0435maker, I sweep up cases\nGoin' on a walk with a new suit armor\nNew suit dead, Bottega, that's on it\nGive me the heat from the sleep, then I harm her\nCupid creep in, sleep with a hammer\nThree time to get me T-T-T'd\nStill same phone, AT&T-T\nStill givin' news very vividly\nBeefin' up, fuck a beef\nSmokin' on some vicious type of reefer\nI need no beef, no cheese (Yeah)\nEven when I eat, they cheat (Uh)\nEvery time we meet, naive\nYou might also like\nWhen I stare in your eyes\nYou'll be there forever\nTo watch our life (To watch our life together)\nYou just like going to Heav\u2014 (My heart)\n\nOne thousand on my feet, stacks spreaded on my seat\nTen thousand on my eyes (Eyes)\n\nYeah, it's mad how it gets so deep\nIt's mad how I get so high\nIt's mad how you get me by (By)\n\nTell me, tell me\nTell me, tell me\nYeah, yeah, yeah, yeah\n\nIt's me, it's me, it's me, it's me, it's me\n\nLook in my eyes, tell me your tale\nDo you see the road, the map to my soul?\nLook, tell me the signs whenever the smoke clear out of my face\nAm I picture-perfect or do I look fried?\nAll of that green and yellow, that drip from your eyes is tellin'\nTell you demise, I went to my side\nTo push back the ceilin' and push back the feelings, I had to decide\nI replay them nights, and right by my side, all I see is a city of people that ride wit' me\nIf they just knew what Scotty would do to jump off the stage and save him a child\nThe things I created became the most weighted, I gotta find balance and keep me a smile (Hah)\nYeah, yeah\nThat shit wild, instead I'm a hero\nI took it from zero, LaFlame Usain\nI run it for miles, this shit wasn't luck\nThey got me fucked up, I put you on bus and take you around\nA couple of guys inside of the school, I gave 'em the tools to get it off ground\nThey say they the ones when they make the errors\nCan't look in the mirror (That shit wild)\nI stand on the stage, I give 'em the rage\nNo turnin' it down, can't tame it, can't follow it\nWe do in the streets, we do it for keeps\nWe do it for rights, got fifty-two weeks\nThis shit ain't for pleasure, I'm comin' to tweak\nThis shit is forever and infinity\nNumber eight, yeah, we write it and wrap it around\nI take me a bean and I turn to a beast\nBought the crib on a hill, made it harder to reach\nBought a couple more whips 'cause I needed more speed\nBought a couple more watches, I needed more time\nDidn't buy the condo, it was smarter to lease\nAnd I bought some more ice 'cause I brought in the heat\nMade a cast of my dick, so she never gon' cheat\nIf I gave you a day in my life or a day in my eyes, don't blink35Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/5780833",
+    "artist_names": "Travis Scott",
+    "full_title": "GOD\u2019S COUNTRY by\u00a0Travis\u00a0Scott",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 5780833,
+    "instrumental": false,
+    "lyrics_owner_id": 10697879,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725742875,
+    "path": "/Travis-scott-gods-country-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/Travis-scott-gods-country-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 410558
+    },
+    "title": "GOD\u2019S COUNTRY",
+    "title_with_featured": "GOD\u2019S COUNTRY",
+    "updated_by_human_at": 1730787595,
+    "url": "https://genius.com/Travis-scott-gods-country-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "164 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00easEspa\u00f1ol\ud55c\uad6d\uc5b4ItalianoT\u00fcrk\u00e7eDeutschGOD\u2019S COUNTRY Lyrics\n(La, la, la, la)\n(La, la, la, la)\n(La, la, la, la) (Watchin' in)\n(La, la, la, la)\nOnly\u2005one\u2005they watching in,\u2005yeah (La, la, la, la)\n(La, la,\u2005la, la)\nIt ain't up to you no more (More)\n(La, la, la, la)\n(La, la, la, la)\nGod Country, this is war (La, la, la)\n(La, la, la)\n(Ooh, ooh-ooh, ooh-ooh) (La, la, la)\n(La, la, la)\n\nWakin' up, I see the light\nI been drunk and it's alright\nI took the drive to clear my mental (Mental)\nWould tint the whip, but it's a bike\nIt's demon time, I got it on me (On me)\nMight earn a teardrop overnight\nWear Louis shades to block my psyche (Psyche)\nIt's hot as hell, but where the ice?\nYou in God's Country, not in Montgomery\nGo Ted Bundy, then go home and play Al Bundy\nThe card black and you know it got a sky limit\nI make a mill' every\u2014, you decide, choice is yours (Yeah)\n(La, la, la)\nThe butterfly reflect the doors (Yeah) (La, la, la)\nI hit the gas and metamorph (La, la, la)\nCouldn't get this shit off credit score (La, la, la)\nHunnid thousand pack the fans (La, la, la)\nGot 'em jumpin' with no hands (La, la, la)\nNeed more spaces where we jam (La, la, la)\nIn God's Country wit' the fam' (La, la, la)\nYeah, woah\nYou might also like\n(La, la, la)\n(La, la, la)\nOoh-ooh (La, la, la)\n(La, la, la)\nOoh-ooh (La, la, la, la)\n(La, la, la, la)\nOoh-ooh (La, la, la, la)\n(La, la, la, la)18Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/9354510",
+    "artist_names": "Travis Scott",
+    "full_title": "SIRENS by\u00a0Travis\u00a0Scott",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9354510,
+    "instrumental": false,
+    "lyrics_owner_id": 12367620,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1729673362,
+    "path": "/Travis-scott-sirens-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 12,
+    "relationships_index_url": "https://genius.com/Travis-scott-sirens-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 387519
+    },
+    "title": "SIRENS",
+    "title_with_featured": "SIRENS",
+    "updated_by_human_at": 1730787623,
+    "url": "https://genius.com/Travis-scott-sirens-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "127 ContributorsTranslationsEspa\u00f1olPortugu\u00eas\u0420\u0443\u0441\u0441\u043a\u0438\u0439\ud55c\uad6d\uc5b4DeutschSIRENS Lyrics\nEvery night, I look up in the sky\nAnd the stars are all there\nBut when I look for you, you're never there\nExplorer, are you out there?\nWe had to spread out the word\nMmm\n\nI was too damn determined\nRap game, it needed refurbish\nI was on top with no service\nWatch as they all playin' verses\nThey in the bushes, they lurkin'\nMight gotta call the insurgents\nShe wanna fuck with a purpose\nI gotta juggle my urges\nGot a couple departments\nCloset built like a department\nDouble up cup of the bourbon\nHow I give all of my sermons\nYeah, we still (Still)\nDo things down to detail\nDiva and the devil\nBoth them bad as he-ell\nThey get quiet when he yell (He yell)\nCan't silent my people\nYou locked in the prequel\nMeet me at the festi-viel\nFesti-vial\nFoo, foo\nYou might also like\nNow I got your attention (Look out)\nIt's wide and beatin' (Look out)\nVow this evenin' (Look out)\nYou never leavin' (Look-look-look-look-look-look)\nClock out, we sneak in (Look-look-look-look-look)\nAll the demons\nNeed a reason\nUp from 2 A.M. to two in the afternoon (Look out)\nIt's a festival right in my room (Look out)\nSoon as the sun up, you know that we boom (Look out)\nMariposa, we out to Canc\u00fan (Look out)\nWe gon' hustle more just before we out the room (Look out)\nBack outside, it ain't no time for Zooms (Look out)\nOne point two, that's a whole lot of more vroom (Look out)\nThree point two, that's a whole lot of whole lot of (Look out)\nIt's live, 'member days that I couldn't get by\nThere outside, it come with it inside\nNow your venue, we gotta resize\nI can't give all this credit to Colgate\nBy the way I be rentin' the smile (Look out, look out)\nI know sometimes I be in denial (Look out, look out)\nI know sometimes I be in the wild (Look out, look out)\nHow I rock in the, rock in the\nAh\n\nI thought we were going to utopia?\nWhat makes you say this isn't utopia?\nI mean, I don't know, isn't it supposed to be some perfect destination? This is just your hotel room\nYeah, it looks perfect to me12Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 33,
+    "api_path": "/songs/9368450",
+    "artist_names": "Travis Scott (Ft. Drake)",
+    "full_title": "MELTDOWN by\u00a0Travis\u00a0Scott (Ft.\u00a0Drake)",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9368450,
+    "instrumental": false,
+    "lyrics_owner_id": 6877117,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1727982205,
+    "path": "/Travis-scott-meltdown-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 19,
+    "relationships_index_url": "https://genius.com/Travis-scott-meltdown-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 1181373
+    },
+    "title": "MELTDOWN",
+    "title_with_featured": "MELTDOWN (Ft.\u00a0Drake)",
+    "updated_by_human_at": 1730787655,
+    "url": "https://genius.com/Travis-scott-meltdown-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/130",
+      "header_image_url": "https://images.genius.com/78a59bd238fc77eb683eb60d2c5bdaf5.800x1000x1.jpg",
+      "id": 130,
+      "image_url": "https://images.genius.com/76ecc680ee21c1c4f449ff0a752ac566.577x577x1.jpg",
+      "index_character": "d",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Drake",
+      "slug": "Drake",
+      "url": "https://genius.com/artists/Drake"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "278 ContributorsTranslationsEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439T\u00fcrk\u00e7ePortugu\u00eas\ud55c\uad6d\uc5b4DeutschMELTDOWN Lyrics\n\nYeah\nTensions is definitely rising\nT'd up right now\nT time, T time\nT time, T time, T time\n\nTeatime like I got a cup of this shit\nTee time like golf at a quarter to six\nI love to fuck on a regular bitch\nFamous hoes lame, but they stay on my dick\nHeard your new joint, it's embarrassing, shit\nYou talk to the cops on some therapist shit\nYou act like you love this American shit\nBut, really, the truth is you scared of the 6\nYeah, you scared of the 6\nYeah, you scared of the 6\nYour bodyguard put in some work on a fluke\nNow you wanna go and inherit that shit\nDon't talk to the boy 'bout comparisons, shit\nOr come to the boy on some arrogant shit\nThe weapons we got are some terrorist shit\nLike TV producers we, grr, we airing this shit\nShe askin' for bread for her parents and shit\nI told her I don't got no cash and she said she could wait on a rack, on some Arabic shit\nI pull out a million and stare at the shit\nMy dick just got hard 'cause a wire just hit\nMy schedule is out, come spin us, for real\nMan, fuck all that spinnin' the narrative shit\nI melt down the chains that I bought from yo' boss\nGive a fuck about all of that heritage shit\nSince V not around, the members done hung up the Louis, they not even wearing that shit\nDon't come to the boy 'bout repairing some shit\nDon't come to the boy about sparing some shit\nYou lucky that Vogue was suing 'cause I would've been with the Wassas in Paris and shit\nYou might also like\n\n(I-I\u2014)\n\nIs you fuckin' crazy? Is you fuckin' crazy? (Ah)\nAnd they scared of the seven (Seven)\nAfter one-three then we turn up eleven (Yeah)\nKeep this shit open like 7-Eleven (It's lit)\nMe at the house, I got seven in heaven\nThey think I'm satanic, I keep me a reverend\nLil' shawty a therapist (yeah), poppin' her shit\nShe inching my way then she started confessing\nI know what's at stake, I'm screamin', \"Free Jeffery\"\nConnect collect calls right off of the celly\nGave her the blues, not talkin' 'bout belly\nDon't keep it sincere, I go Makaveli\nI got the juice, now it's heavy (Juice)\nAlways on t-time, been ready (T, ah), yeah\nIs you fucking crazy? Is you f\u2014 (Yeah, stoned, let's go)\nWrappin' the cheese, wrap around me 'cause I've got property (Wrap, cheese, wrap)\nChocolate AP and chocolate the Vs (Vs), got the Willy Wonka factory (Vs)\nBurn a athlete like it's calories, find another flame hot as me, bitch\n\n(Ooh)\n\nYeah, is you fucking crazy? (Nah)\nIs you fucking crazy? (What?)\nIs you fucking crazy? (Nah, nah)\nIs you fucking crazy? Yeah\nIs you fucking crazy or what?\nIs you fuckin', is you fuckin'\nIs you fucking crazy?\n\nHow many Texas boys done ran it up? A couple, maybe (Couple, maybe)\nSwanging in the pickup truck, baby, fuck Mercedes (Fuck Mercedes)\nI'll fuck a nigga bitch but she can't have the baby (Have the baby)\nI'll shoot your ass in Walmart like I'm DaBaby (In Walmart)\nThe boy going Lionel Messi, I go Tom Brady (Woo)\nUsed to wear the bust down back in my old days (Woo)\nNow I let the chains hang, you gotta tuck yours maybe (Tuck it, tuck it)\nNiggas talkin' Scarface, I'm that in real life (Ooh)\nIs you fucking crazy or what? Is you fucking crazy? (Fuckin' crazy)\nMan, the club ain't been the same since we lost Mercedes (Straight up)\nMan, the clique ain't been the same since they lost the greatest (Nah, nah, nah)\nWe outside with the army, so you need the (Uh-huh)\nThem boys rollin' all brown like they whippin' gravy\nMake a circus outside like it's Barnum's Bailey (It's lit)\nBlickey hanging on my side, it's like it's really hanging (Blickey, blickey, blaow)\nShe move her panties to the side, she want it raw when faded (Huh? Huh? Huh? Huh?)\nIs you fucking crazy? Uh\nIs you fucking crazy? Uh\nIs you fucking crazy or what?\nIs you fucking crazy? Yeah\nIs you fucking crazy or what?\nIs you fuckin', is you fuckin'\nIs you fucking crazy?19Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 19,
+    "api_path": "/songs/9368459",
+    "artist_names": "Travis Scott (Ft. Playboi Carti)",
+    "full_title": "FE!N by\u00a0Travis\u00a0Scott (Ft.\u00a0Playboi\u00a0Carti)",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9368459,
+    "instrumental": false,
+    "lyrics_owner_id": 9387139,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1729699781,
+    "path": "/Travis-scott-fe-n-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 51,
+    "relationships_index_url": "https://genius.com/Travis-scott-fe-n-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "concurrents": 2,
+     "hot": false,
+     "pageviews": 1979564
+    },
+    "title": "FE!N",
+    "title_with_featured": "FE!N (Ft.\u00a0Playboi\u00a0Carti)",
+    "updated_by_human_at": 1730754908,
+    "url": "https://genius.com/Travis-scott-fe-n-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/289976",
+      "header_image_url": "https://images.genius.com/e48b8f6b174a3c6835ee7d88ef42520c.1000x1000x1.png",
+      "id": 289976,
+      "image_url": "https://images.genius.com/104d1cb449d83b2ac01dcdfcda327deb.1000x1000x1.jpg",
+      "index_character": "p",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Playboi Carti",
+      "slug": "Playboi-carti",
+      "url": "https://genius.com/artists/Playboi-carti",
+      "iq": 8695
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "395 ContributorsTranslationsPortugu\u00easEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439T\u00fcrk\u00e7e\ud55c\uad6d\uc5b4Deutsch\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Fran\u00e7aisFE!N Lyrics\nJust come outside for the night (Yeah)\nTake your time, get your light (Yeah)\nJohnny Dang, yeah, yeah\nI been out geekin' (Bitch)\n\nFE!N, FE!N, FE!N, FE!N, FE!N (Yeah)\nFE!N, FE!N, FE!N, FE!N, FE!N (Yeah)\nFE!N, FE!N, FE!N, FE!N, FE!N\nFE!N, FE!N (Yeah), FE!N, FE!N, FE!N\n\nThe career's more at stake when you in your prime (At stake)\nFuck that paper, baby, my face on the dotted line (Dot, yeah)\nI been flyin' out of town for some peace of mind (Yeah, yeah, bitch)\nIt's like always they just want a piece of mine (Ah)\nI been focused on the future, never on right now (Ah)\nWhat I'm sippin' not kombucha, either pink or brown (It's lit)\nI'm the one that introduced you to the you right now (Mm, let's go)\nOh my God, that bitch bitin' (That bitch bitin')\nWell, alright (Alright), tryna vibe (I'm tryna vibe this)\nIn the night, come alive\nAin't asleep, ain't a\u2014, ain't a\u2014, ain't-ain't\nFE!N, FE!N, FE!N, FE!N, FE!N\nFE!N, FE!N, FE!N, FE!N, FE!N\nFE!N, FE!N, FE!N, FE!N, FE!N\nFE!N, FE!N, FE!N, FE!N\nFE!N, FE!N, FE!N, FE!N, FE!N\nYou might also like\nSchyeah, woah, what?\nWhat?\n(Homixide, Homixide, Homixide, Homixide)\nWhat? (Yeah)\nWoah, woah (Yeah, yeah)\n(Homixide, Homixide, Homixide, Homixide)\nHit, yeah, hold up (Yeah)\n\nYeah, I just been poppin' my shit and gettin' it live, hold up (Shit)\nYeah, you try to come wrong 'bout this shit, we poppin' your tires, hold up (Shit)\nUh, hundred-round (Woah), feelin' like I'm on ten\nPlayin' both sides with these hoes (Hold up), shawty, I'm fuckin' your friend (Hold up)\nI've been goin' crazy, shawty, I've been in the deep end\nShe not innocent, uh, she just tryna go\n\nFE!N (Talkin' 'bout), FE!N, FE!N (Schyeah), FE!N, FE!N (Schyeah, oh, oh, what? Schyeah)\nFE!N, FE!N (Schyeah), FE!N, FE!N, FE!N (Oh, oh)\nFE!N, FE!N (Talkin' 'bout), FE!N, FE!N, FE!N, FE!N (Talkin' 'bout, let's go)\nI just been icin' my hoes, I just been drippin' my hoes (Drippin' my hoes)\nThis is a whole 'nother level, shawty (Oh), I got these hoes on they toes (Hoes on they toes)\nI put the bitch on the road, she tryna fuck on the O, hold up, hold up\nI got this ho with me, she tryna show me somethin', hold up, hold up (Oh)\nI got flows for days, these niggas ain't on nothin', hold up, yeah (Oh)\nMe and my boy locked in, you know we on one, hold up, uh (Slatt, slatt)\nWe in the spot goin' crazy until the sun up\nYou worried about that ho, that ho done chose up (Slatt, bitch-ass)\nUh, pistols all in the kitchen, can't give the zip code up, hold up, yeah, slatt (Wow)\nFE!N, FE!N, FE!N (Huh? Huh? Huh? Huh? Yeah)\nWhy the fuck these niggas actin' like they know us?\n00CACTUS, yeah, we towed up (Skrrt, skrrt), uh, yeah\nSwitch out the bag, these niggas get rolled up, hold up (It's lit), slatt\nEverything hit, hold up, everything Homixide, Homixide (Homixide, Homixide, Homixide, Homixide)\nFE!N, FE!N, FE!N, FE!N, FE!N, FE!N (Homixide, Homixide, Homixide, Homixide, Homixide, Homixide, Homixide)51Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/8465484",
+    "artist_names": "Beyonc\u00e9 & Travis Scott",
+    "full_title": "DELRESTO (ECHOES) by\u00a0Beyonc\u00e9\u00a0& Travis Scott",
+    "header_image_thumbnail_url": "https://images.genius.com/62ec64f3d582fe32ae98eb34d4ca752a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/62ec64f3d582fe32ae98eb34d4ca752a.1000x1000x1.png",
+    "id": 8465484,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1720164776,
+    "path": "/Beyonce-and-travis-scott-delresto-echoes-lyrics",
+    "primary_artist_names": "Beyonc\u00e9 & Travis Scott",
+    "pyongs_count": 15,
+    "relationships_index_url": "https://genius.com/Beyonce-and-travis-scott-delresto-echoes-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/62ec64f3d582fe32ae98eb34d4ca752a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/62ec64f3d582fe32ae98eb34d4ca752a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 357128
+    },
+    "title": "DELRESTO (ECHOES)",
+    "title_with_featured": "DELRESTO (ECHOES)",
+    "updated_by_human_at": 1730787724,
+    "url": "https://genius.com/Beyonce-and-travis-scott-delresto-echoes-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/3624620",
+     "header_image_url": "https://images.genius.com/3bbe422d79ac7efbd69c6911797aa546.771x434x1.png",
+     "id": 3624620,
+     "image_url": "https://images.genius.com/02d54d124da35cdb4fdeb150a7761ef6.800x800x1.png",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beyonc\u00e9 & Travis Scott",
+     "slug": "Beyonce-and-travis-scott",
+     "url": "https://genius.com/artists/Beyonce-and-travis-scott"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/3624620",
+      "header_image_url": "https://images.genius.com/3bbe422d79ac7efbd69c6911797aa546.771x434x1.png",
+      "id": 3624620,
+      "image_url": "https://images.genius.com/02d54d124da35cdb4fdeb150a7761ef6.800x800x1.png",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Beyonc\u00e9 & Travis Scott",
+      "slug": "Beyonce-and-travis-scott",
+      "url": "https://genius.com/artists/Beyonce-and-travis-scott"
+     }
+    ],
+    "artist": "Beyonc\u00e9 & Travis Scott",
+    "lyrics": "133 ContributorsTranslationsEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00eas\ud55c\uad6d\uc5b4DeutschDELRESTO (ECHOES) Lyrics\nI believe in, I believe in love\nAh\nAh\nAh\nAh\n\nStatues in the next room\nBillions in escrow (Ah)\nBulletproof the\u2005whole\u2005thing\nIgnore the dress\u2005code\nStep into the ballroom\nSo hard to\u2005let go (Ah)\nThings that never give life\nI can see the echoes\n\nRidin' through the thunder\nTryna see the summer\nIt's the echoes that I wait for\nIt's the echoes that I'm made for\nRecognize delresto\nRecognize the let go\nBreakin' through the echoes (Made for)\nBreathin' through the echo (Walk)\nYou might also like\nIt's only echoes I escape for (Walk, walk)\nOnly echoes on the return (Walk, walk)\nWalkin' on the numbers (Walk, walk)\nStay the night\n\nIt's the let go (Walk)\nThe let go (Walk)\nThe let go (Walk)\nThe let go (Walk)\nThat I wait for (Walk)\nI'll wait for (Walk)\nI'll wait for (Walk)\nI'll wait for you (Walk)\n\nWatch you, watch you, watch you get the medical\nListen at your waist to stay hospitable\nInfected with your vaccine, this ain't critical\nLet me vibe with your green eyes (\u2014dom-dom-dom-dom)\n\nThe starry nights, they start to fade (Come on)\nAt times, for miles I see your face, yeah\nI drive, I drive alone, you wait\nYour time, your time, your time, you take\nYou take\nDrivin' reckless through a storm and\nIt's you or breakfast in the mornin'\nMy nights is abnormal, advice ain't informal\nI did try to warn you before they went and swarmed you\nThe height we made is paranormal\nWe shake and wake up the paranoia\nWon't let it destroy you, won't let it annoy you\nI'm tryin' to enjoy you in front of the foyer\n\nWe can't seem to break through out the logical (Ah)\nTo see it in the day, you gotta free your soul (Breakin' through the echoes)\nYou wanna reign supreme and never let them go (Ah)\nWe filmin' live from the kingdom-dom-dom-dom\n\nOnly echoes that I wait for (Ah)\nOnly echoes on the return\nWalkin' on the numbers (Walk, walk)\nI find (Walk, walk)\nIt's the echoes that I wait for (Walk, walk)\nIt's the echoes on the return (Walk, walk)\nStay the night\n\nIt's the let go (Walk)\nThe let go (Walk)\nThe let go (Walk)\nThe let go (Walk)\nThat I wait for (Walk)\nI'll wait for (Walk)\nI'll wait for (Walk)\nI'll wait for you (Walk)\nAh\nAh\nAh\nAh\nHey, now, you will report to me\nHey, now, you will report to me\nHey, now\nHey, now, you will report to me (Hey, now, you will report to me)\nHey, now\nHey, now, you will report to me15Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/9368442",
+    "artist_names": "Travis Scott",
+    "full_title": "I KNOW ? by\u00a0Travis\u00a0Scott",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9368442,
+    "instrumental": false,
+    "lyrics_owner_id": 1599419,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1729379226,
+    "path": "/Travis-scott-i-know-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 23,
+    "relationships_index_url": "https://genius.com/Travis-scott-i-know-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 865592
+    },
+    "title": "I KNOW ?",
+    "title_with_featured": "I KNOW ?",
+    "updated_by_human_at": 1730787882,
+    "url": "https://genius.com/Travis-scott-i-know-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "160 ContributorsTranslationsEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00easT\u00fcrk\u00e7e\ud55c\uad6d\uc5b4Fran\u00e7aisDeutschI KNOW ? Lyrics\nTell me, is you still up? (Up)\nIt's 5 AM and I'm drunk right now\nTell me, can we still fuck? (Fuck that shit)\nOne of one, I'm in the zone right now\nTell me, am I still? (Mm)\nTellin' you just how I feel right now\nYou said it's just the drugs and I know\nI know, I know, I know, I know, I know, I know\nI lied too, way before (Let's go), before\nBefore I had you right inside my arms\nBut then again, I could be drunk (It's lit, yeah)\n\nBaby, I don't wanna sound righteous (Yeah)\nI got twenty bitches suckin' like bisons\nI just eeny, meeny, miney, roll the dices, I pick her (Pop it, pop it)\nShe ain't even really my type, and I hear\nShe been losin' herself to the night shift\nShe been losin' herself and I get, oh, girl, yeah, I get it\nYeah, yeah, you've been fightin' for your shot\nAnd you've been searchin' for your spot\nGirl, I feel it, yeah, girl, I feel it, yeah\nOh, you think you got your groove\nBut you want someone like you (Let\u2014)\nYou might also like\nTell me, is you still up? (Up)\nIt's 5 AM and I'm drunk right now\nTell me, can we still fuck? (Fuck that shit)\nOne of one, I'm in the zone right now\nTell me, am I still? (Mm)\nTellin' you just how I feel right now\nYou said it's just the drugs and I know\nI know, I know, I know, I know, I know, I know (Ooh, it's the kid, know it, damn it)\nI lied too, way before, before (How they feelin', how they feelin' right here, ooh)\nBefore I had you right inside my arms (Feelin' like some money tonight)\nBut then again, I could be drunk (Yeah)\n\nI know, mami, I know (Know), it's 2 AM, don't stress (Stress)\nAt three, that bullshit kick in, in thirty, you'll feel your best\nI turned my whole spot to crucial, it's crucial, the way I left (It's lit)\nUpstairs is like a low, my new bitches be the best (Let's go)\nI'm lookin' at her, when her startin' to turn into you (Her)\nNow you startin' to fuck up my mind, is it you, is it her?\nWe brought Booby Trap to the 'burbs\nF29 is my address, in case you ain't heard\nIt's floodin' upstairs, it's a leak\nI don't make it squeak, make it squirt\nI make this shit beat, bon app\u00e9tit when I feast\nSlippin' and slide through the streets\nIt takes a finesse, especially in this Cabriolet Jeep\nEngine make it hard to creep\nJust leave the gate open, through the side door, I'ma creep (Ooh, ooh)\nAre you by the Turrell? And are the kids downstairs asleep?\nAnd are you upstairs by yourself? A minute from there\nIs there some room for me? Baby, do tell, do tell\nTell me, is you still up? (Up)\nIt's 5 AM and I'm drunk right now\nTell me, can we still fuck? (Fuck that shit)\nOne of one, I'm in the zone right now\nTell me, am I still? (Mm)\nTellin' you just how I feel right now\nYou said it's just the drugs and I know\nI know, I know, I know, I know, I know, I know\nI lied too, way before (Let's go), before\nBefore I had you right inside my arms\nBut then again, I could be drunk23Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 38,
+    "api_path": "/songs/9368460",
+    "artist_names": "Travis Scott (Ft. 21 Savage & Rob49)",
+    "full_title": "TOPIA TWINS by\u00a0Travis\u00a0Scott (Ft.\u00a021\u00a0Savage & Rob49)",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9368460,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1730876923,
+    "path": "/Travis-scott-topia-twins-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 12,
+    "relationships_index_url": "https://genius.com/Travis-scott-topia-twins-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 14,
+     "hot": false,
+     "pageviews": 561898
+    },
+    "title": "TOPIA TWINS",
+    "title_with_featured": "TOPIA TWINS (Ft.\u00a021\u00a0Savage & Rob49)",
+    "updated_by_human_at": 1730876923,
+    "url": "https://genius.com/Travis-scott-topia-twins-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/2751797",
+      "header_image_url": "https://filepicker-images.genius.com/y1ns1ap1brl",
+      "id": 2751797,
+      "image_url": "https://filepicker-images.genius.com/4bfdwfwl96k",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Rob49",
+      "slug": "Rob49",
+      "url": "https://genius.com/artists/Rob49"
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/430404",
+      "header_image_url": "https://images.genius.com/ca7f0c28fcb360b23961ffdcc51c3663.949x1000x1.jpg",
+      "id": 430404,
+      "image_url": "https://images.genius.com/a188cbf4daabb522911e8b5bf18b9e5c.979x979x1.jpg",
+      "index_character": "0",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "21 Savage",
+      "slug": "21-savage",
+      "url": "https://genius.com/artists/21-savage",
+      "iq": 5975
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "169 ContributorsTranslationsEspa\u00f1ol\ud55c\uad6d\uc5b4\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00easDeutschTOPIA TWINS Lyrics\nTwin bitches, twin bitches\nTwin bitches hoppin' off a jetski (Yeah)\n(Ayy, what we doin'?)\nTwin bitches, twin bitches (Yeah)\nTwin bitches hoppin' off a jetski (Yeah, yeah)\n\nIt's so hard to hide I'm a dawg, nigga, I make a mistake and show it\nWay I shoot my shot at all these hoes, I fuck my shoulder up\nTravis, what if they twins and they Siamese, but they wanna fuck us both? (Yeah)\nBuy her what she want and suck her toes, I'm tryna make her cum\nTold her throw it back and put that pussy on me (Yeah)\n\nTold her sit it on this dick, I took the glizzy off me\nAnd you know this life been busy, man, I'm Bizzy, homie\nAnd I come through, throw a pack, she never leave me lonely (Yeah, yeah)\nI can't do no cuddles, can't stay 'til the mornin' (Can't stay 'til the mornin')\nShe an angel in the streets, a demon undercover (Yeah)\nLie to shorty like I hate her, fuck her like I love her (Fuck her like I love her)\nI be stuntin' like my daddy, I'm from New Orleans project (From New Orleans project)\nYeah\n\nSittin' sideways with a drink while I think\nBitches get cold in the summer, keep a mink\nTell me what you doin' for her, better not think\nAnother nigga do it for her before you blink\nHighway movin' right behind me, a fleet\nIf she get too annoyin', find a beach\nTwin bitches, twin bitches\nTwin bitches hoppin' off a jetski (Perfect)\nYou might also like\nTwin bitches (21), twin Dracs\nTwin Glocks, twin jets (21)\nCharter planes, I don't ride prop\nSlow stroke (Yeah, perfect) from the back, I been drinkin' Wock'\nX-rays, CAT scans, nigga, ask my opps (21)\nTen bad bitches in the studio, they all props (Perfect)\nTreat them niggas like rhythmic radio, they all pop\nShould've got some lipo', she got shots, now her ass dropped\nSlime sittin' in the cell, I bet he comin' home like Pac (On God, perfect)\nShe give me wet mouth, I need a mop\nI don't want that clean head, lil' bitch, I want that slop (21)\nShe can't bring her phone, ain't no givin' out my drop\nRockin' Lanvins when I step on niggas' blocks (On God)\nNeed a dealer license, all these cars I done copped\nThey keep lookin' for her head, but it's goin' down like Joc (21)\nOh, he think he tough? He just actin', he The Rock (Yeah)\nAmazon Prime, give me two days, I bet he drop (Pussy)\n\nSittin' sideways with a drink while I think\nBitches get cold in the summer, keep a mink\nTell me what you doin' for her, better not think\nAnother nigga do it for her before you blink\nHighway movin' right behind me, a fleet\nIf she get too annoyin', find a beach\nTwin bitches, twin bitches\nTwin bitches hoppin' off a jetski\nIt's not electric, this shit gassed up, can you catch it? (Skrrt, skrrt)\nThe Virgil jetski one of one-fifty, check the leverage (Pussy)\nGot two twins, they top tier, that's my favorite fetish\nDeep in her throat 'til she tear, I'm her favorite beverage (Straight up)\nRan out of time, made ten APs, man, I can't retire\nBeen on the road collectin' rubber bands to match attire (Yeah)\nI got the vision, ain't no dippin' in that ayahuasca\nThis shit get thicker than a bitch with stripes, LSU Tigers (Pussy)\nAyy, twin, call up twin, tell her I'm in town now (21)\nLondon bitch, she wanna link, she dropped the pin to pound town (21)\nAss thick, when she walk, it got its own surround sound (Yeah)\nAnd she tryna ride me like a wave, I'ma drown, drown\nShe say she like the way the soul chop, it make her bounce, bounce (21)\nShe from the west, but when she with me, she from down south\nFlew into town, not to hotel, but to the town house\nI send the drop, they hit the drop, we brought the drops out (On God)\n\nSittin' sideways with a drink while I think\nBitches get cold in the summer, keep a mink\nTell me what you doin' for her, better not think\nAnother nigga do it for her before you blink (On God)\nHighway movin' right behind me, a fleet\nIf she get too annoyin', find a beach (21)\nTwin bitches, twin bitches (Yeah)\nTwin bitches hoppin' off a jetski12Embed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/9368448",
+    "artist_names": "Travis Scott (Ft. Swae Lee & The Weeknd)",
+    "full_title": "CIRCUS MAXIMUS by\u00a0Travis\u00a0Scott (Ft.\u00a0Swae\u00a0Lee & The\u00a0Weeknd)",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9368448,
+    "instrumental": false,
+    "lyrics_owner_id": 17904299,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1705253029,
+    "path": "/Travis-scott-circus-maximus-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Travis-scott-circus-maximus-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 348236
+    },
+    "title": "CIRCUS MAXIMUS",
+    "title_with_featured": "CIRCUS MAXIMUS (Ft.\u00a0Swae\u00a0Lee & The\u00a0Weeknd)",
+    "updated_by_human_at": 1730787963,
+    "url": "https://genius.com/Travis-scott-circus-maximus-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/2358",
+      "header_image_url": "https://images.genius.com/4f53cc8d9d521bf6a1c5b37b8867ccef.1000x333x1.jpg",
+      "id": 2358,
+      "image_url": "https://images.genius.com/e4e92d3a1d504ab2f38cd8da26c9fd2a.1000x1000x1.jpg",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "The Weeknd",
+      "slug": "The-weeknd",
+      "url": "https://genius.com/artists/The-weeknd",
+      "iq": 17086
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/209139",
+      "header_image_url": "https://images.genius.com/f6138895af1f31df362a0a8c3624b5c8.640x800x1.jpg",
+      "id": 209139,
+      "image_url": "https://images.genius.com/5bddd32843bf47b333ed90b12d602928.640x640x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Swae Lee",
+      "slug": "Swae-lee",
+      "url": "https://genius.com/artists/Swae-lee",
+      "iq": 989
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "137 ContributorsTranslationsEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Polski\ud55c\uad6d\uc5b4DeutschCIRCUS MAXIMUS Lyrics\nUnreal, what is this?\nGod done gave me strength\nAre these the front row seats you wanted?\nWe'll have our final moment\n\nA walk-in attraction\nA walkin' distraction\nI'm naturally Black and\nUnnaturally breathin'\nLike a waist that is snatchin'\nWelcome to my world where it's packed in\nAt the top of the tavern\nHow I see when this happenin'\nAll the real have been dabbed in\nAll the, all the bumps and the grabbin'\nAin't no cops here harassin'\nAll the looks and the laughin'\nAnd outside, it got traffic\n'Cause inside, we wreak havoc\nY\u0435ah, I know when this\nYeah, I know when this drastic, wh\u0435re it's goin'\nWhen I back up emotions\nAll this here, I'm controllin'\nWhen I'm back in the\nWhen I'm back in the streets, on my side, I'm patrollin'\nWhen I'm back in the, when I'm back in the (Ah)\nYou might also like\nI know our love is forsaken (Woo)\nBut do you care if I was alive? (Whenever I'm back in the, ah)\nOr do you wanna be famous? (Woo, yeah)\n\nI took the top off\nLike she took her lil' blouse off\nToo hard to go drop off\nYou know that boy not soft\nI never would travel\nSo I need me a time vault\nI been up in Cabo\nWith my Bailey Osanto\nIn this world, look around, yo\nIt's just mano y mano\nI might still eat McDonald's\nBut don't think I'm a Ronald\nI went back to my land\nMove like Moses, walkin' over seas\nIn my state because the country\nEvery part of it is part of me\nTell your parliament, \"Pardon me\" (Woo)\nOff the sak\u00e9, turned to Socrates (Woo)\nHeavy moments on the ground\nFeel it shapin' in the sound\n'Cause we ri\u2014, 'cause we right in yo' house\nAnd you know that we down\nIf yo' ass don't know nothin'\nGotta know that it's time\nI'm excited to jump in\nSo much that I'm flyin'\nPut you right in the function\nTook you right off a vine\nGot this shit in a bind\nWe got it, we got it now (Ah, woo)\nWhenever I'm duckin' it (Ah, woo)\nI'm waiting on a let go\nI'm waiting on a let go\nI know myself, I know exactly how to make you special\nGo, collect your fame\nI'm waiting in an echo\nI'm waiting in an echo\n'Cause you keep callin' back, I thought I told you that we do not\nSorry, I didn't let you out\nOut, woah-oh\n(Out)\n(Out, woah-oh)8Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/9368501",
+    "artist_names": "Travis Scott (Ft. Dave Chappelle & Yung Lean)",
+    "full_title": "PARASAIL by\u00a0Travis\u00a0Scott (Ft.\u00a0Dave\u00a0Chappelle & Yung\u00a0Lean)",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9368501,
+    "instrumental": false,
+    "lyrics_owner_id": 6459935,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722226182,
+    "path": "/Travis-scott-parasail-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 22,
+    "relationships_index_url": "https://genius.com/Travis-scott-parasail-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 330638
+    },
+    "title": "PARASAIL",
+    "title_with_featured": "PARASAIL (Ft.\u00a0Dave\u00a0Chappelle & Yung\u00a0Lean)",
+    "updated_by_human_at": 1722226182,
+    "url": "https://genius.com/Travis-scott-parasail-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/48326",
+      "header_image_url": "https://images.genius.com/f2659b2822fd55abdd8e8e930a538dba.1000x563x1.jpg",
+      "id": 48326,
+      "image_url": "https://images.genius.com/7b703c516dfca9d8b300653f0aabda21.1000x1000x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Yung Lean",
+      "slug": "Yung-lean",
+      "url": "https://genius.com/artists/Yung-lean",
+      "iq": 100
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/2635",
+      "header_image_url": "https://images.genius.com/3d97f401853c22130419d797d76287f7.600x400x1.jpg",
+      "id": 2635,
+      "image_url": "https://images.genius.com/9f468d924f0fc71b7611afb196598e5d.409x409x1.jpg",
+      "index_character": "d",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Dave Chappelle",
+      "slug": "Dave-chappelle",
+      "url": "https://genius.com/artists/Dave-chappelle"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "92 ContributorsTranslationsEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00easDeutsch\ud55c\uad6d\uc5b4PARASAIL Lyrics\nI stand tall, I fall, I get up\nI fall, I get up\nI fall, but I get up\nI stand tall, I stand tall\n\nRidin' parasail, rollin' through the grass\nShaded under trees\nLookin' through a glass\nWatchin' by the bushes, waitin' on a breeze\nYou is all I need\nWater movin' fast, washin' memories, tryna make it last\nParasail\n\nFlyin' through the bush, we flyin' through the bush\nWave, we gon' rock, wave, we gon' take a swole\nWe gon' swole, we gon' rock clean\nWe gon' shake off the mother-mother-mother-mother live\nWe gon' live, we gon' rock show\nWe gon' pop, we gon' rock, I\n\nSuccess comes so easy for you (Oh)\nTh\u0435y're waiting behind the call\nYou might also like\nRidin' parasail, rollin' through th\u0435 grass\nShaded under trees\nLookin' through a glass\nWatchin' by the bushes, waitin' on\u2014 (Ooh-ooh-ooh)\n\nI forgive myself, I forgive myself\nI choose to feel good, I choose to feel free\nI will fight for everything I love, forever\nAnd I will love everything that I fight for, forever\n\nWith me\nWonder what you wanna do\nWhen you're not with me22Embed"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 38,
+    "api_path": "/songs/9368463",
+    "artist_names": "Travis Scott (Ft. Young Thug)",
+    "full_title": "SKITZO by\u00a0Travis\u00a0Scott (Ft.\u00a0Young\u00a0Thug)",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9368463,
+    "instrumental": false,
+    "lyrics_owner_id": 498964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724534411,
+    "path": "/Travis-scott-skitzo-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/Travis-scott-skitzo-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 17,
+     "hot": false,
+     "pageviews": 440123
+    },
+    "title": "SKITZO",
+    "title_with_featured": "SKITZO (Ft.\u00a0Young\u00a0Thug)",
+    "updated_by_human_at": 1730788042,
+    "url": "https://genius.com/Travis-scott-skitzo-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/2d744a58b81515171daedf5bb6ccea4f.760x760x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "slug": "Young-thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "189 ContributorsTranslationsEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00eas\ud55c\uad6d\uc5b4DeutschSKITZO Lyrics\n\nBeat me, I move at night when they really can't see me\nI ran it back last time but it ain't last time\nI got so much around the house, I had to hide mine (Yeah, oh)\n\nThrow it all, before I hit the door, she dropped 'em, had the clothes off (Oh)\nI thought it was a setup, watch her, I can't doze off\nThe dogs out the kennel, watchin' with the scope off\nWith the heat talk, watch it burn your soul off (Ah)\nI took 'em out of office, now they work for me now\nI took her out the background, she play the lead now (Lead)\nPut it in the back gate, or hold the trees down (Trees)\nTryna tell you what I need, somebody do that there\nLate at night, at home, get ratchet, can you do that there?\nWay out when I'm on road, you send me do that there\nTold you I'ma be right back as long as\u2014\nTold you I'ma be right back as long as\u2014\nDo that there, do that there\nWay out when\u2014 (Yeah)\nDo that there\nLate at night, at home, get ratchet, can you do that there? (Can you do it?)\nTold you I'ma be right back as long as\u2014, do that there\n(Told you I'ma be right back as long as\u2014)\nYou might also like\nBeat me, I move at night when they really can't see me\nI ran it back last time but it ain't last time\nI got so much around the house, I had to hide mine (To hide mine)\nLet's go\n\nBling-bling, I get a rush every time I see some diamonds\nShe get it up, she gon' bounce it like a trampoline\nKeep up with swag, she be fresher than a mannequin\nAll type of bags in her closet like she married to me, married to me\nYou a puzzle, Patek Phillipe\nKeep it right there with my postcode (Slatt, postcode)\nI been jumpin' out the gym with no Jordans on (Woah)\nShe been all above the rim on her torsos (Woah)\nPrincess cuts, diamonds, I got plenty\nLift it up, air it out, like linen (Yah)\nRolls Royce, big ol' truck, I'm in it (Yah)\nBouncing 'round like he want smoke, I'm a chimney (Yah)\nTall, her hair long, she Jamaican ('Maican)\nAnd she tryna rage in the bedroom (Yah)\nAnd she got a Rollie on her leg too (Leg too)\nAnd it's plain gold, Ace of Spade too (Yeah)\nCoco Chanel for reals on her toes\nI got white folk money, Eminem with no gold\nI got rose gold teeth and rose gold rims on my Rolls\nPeep the way they lookin', we gettin' richer than a bookie, ayy\nBeat me, I move at night when they really can't see me\nI ran it back last time but it ain't last time\nI got so much around the house, I had to hide mine (To hide mine)\nBelieve me, I move at night when they really can't see me\nI ran it back last time but it ain't last time\nI got so much around the house, I had to hide mine (To hide mine)\n\n\nAlright, alright, alright, alright, alright, alright\n\nWithout goin' deep Shakespeare\nTook the squad, brought the play right here (Yeah)\nGot the vision and I made that clear (Clear)\nUp from two 'til it's two runnin' plays like the Tennessee kid (Tennessee)\nI'm the one, that's why they tryna hurt the kid (Kid)\nI'm the one, JH, with the braids, with the lights\nWith the ike and the smoke, but I can't stay away\nSee this life? Man, I can't stay away\nFind a vice, man, I can't stay away\nFind it hard, why I can't play it safe?\nSeen the top ten pen list, I don't even know how they could pin this\nKnowin' that I'm the human Pinterest\nNeed true love but I know true love's like a friendship\nBut even Titanic had an endin'\nI rock the boat with ice so expensive\nHair long, not no extensions\nMoney long, shit is extended\nShe need me now, she need me a pendant\nI said you need me now, I ain't finished, huh\n\nI said, you need me now\nI said, you need me now\nYou need me (Ah)\n\nI stick to the code, binary like I's and O's (Ooh)\nI'm too exposed, I gotta keep curtains closed (Closed)\nHer body bold, she hid it behind the clothes (Skeet, skeet, skeet)\nI'm in Cabo, I'm hittin' these adios\nTryna balance all these up and downs, but I keep poppin' lows (Lows)\nMan, it is what it is, that's just how it goes\nPure session, I just kept progressin', finally found the flow (Flow)\nIf the answer's down there with the devil, I may never know (Let's go)\nMy dawg just got freed out the precinct (Free)\nHid it in my bag, let's hit Turks for the weekend (Let's go)\nWhy did I pop two out that whole pack? Dawg, I'm tweakin' (Geeked)\nBaby girl, come suck, keep me up, ain't no sleepin', ooh\nShe gon' let me beat that body up like we beefin' (Beefin')\nBetter yet she vegan (Vegan), better yet she tweakin' (Tweakin')\nYeah, 6 A.M., I hit my alarm clock (Yeah)\nYou see the vision, this shit non-stop, gotta keep my palms hot (Hot)\nGot Longhorns in my backyard, bitch, I'm a lonestar\nThe droptop came with the top, I cut the door apart\nMy brodie keep a stainless to steal, ain't no Chrome Heart (Grr)\n\n\nI cut some off, I had to better myself\nAgainst the odds, I'd bet on myself\nI was at Frank Gibbins before Thanksgiving, thanks to my health\nToo many flaws, tryna generate wealth\nMan, that's how you go broke and lose bros and lose hope in this shit\nI was thinkin' that we both could be rich, I guess it's one-sided\nCrazy how they love to talk shit and got no Trident\nI'm loyal, bitch, I got Ye over Biden\nI let the shit go off the top, yeah, no typin'\nHow I go from overlooked to these niggas is overbitin'?\nHow I'm always in they ear? I'm enticin'\nAnd you ain't gotta take it from me, I'm advisin', for real18Embed"
+   }
+  },
+  {
+   "number": 15,
+   "song": {
+    "_type": "song",
+    "annotation_count": 19,
+    "api_path": "/songs/6503347",
+    "artist_names": "Travis Scott (Ft. Westside Gunn)",
+    "full_title": "LOST FOREVER by\u00a0Travis\u00a0Scott (Ft.\u00a0Westside\u00a0Gunn)",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 6503347,
+    "instrumental": false,
+    "lyrics_owner_id": 7459327,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724293420,
+    "path": "/Travis-scott-lost-forever-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 30,
+    "relationships_index_url": "https://genius.com/Travis-scott-lost-forever-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 10,
+     "hot": false,
+     "pageviews": 472275
+    },
+    "title": "LOST FOREVER",
+    "title_with_featured": "LOST FOREVER (Ft.\u00a0Westside\u00a0Gunn)",
+    "updated_by_human_at": 1724962101,
+    "url": "https://genius.com/Travis-scott-lost-forever-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/451539",
+      "header_image_url": "https://images.genius.com/6eb78ce30b0d2ad0c8f9e4bf941decf2.667x1000x1.jpg",
+      "id": 451539,
+      "image_url": "https://images.genius.com/1a0e4182ec5ecd6363c1c9083856899e.683x683x1.jpg",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Westside Gunn",
+      "slug": "Westside-gunn",
+      "url": "https://genius.com/artists/Westside-gunn",
+      "iq": 100
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "169 ContributorsTranslationsT\u00fcrk\u00e7ePortugu\u00easEnglish\u0420\u0443\u0441\u0441\u043a\u0438\u0439\ud55c\uad6d\uc5b4DeutschLOST FOREVER Lyrics\n\nHave you ever been lost?\nHave you ever been lost?\nForever\n\nLost on islands, driven in boat cars\nJust bring your girl, feel like she both ours\nYoung black nigga work at the Auchans (Auchans)\nSo how we here trapped on the ocean?\n'Bout to go up a level of disrespectful\nI'm just one chain away from goin' heavy metal\nI'm just one angel away from blockin' out the devil\nJust one mountain away from meetin' all my rebels\nToo much power, too many hours all in a day\nI sent her flowers, ain't talkin roses, I'm talkin' maoda\nAsk if she \"ha-ha-ha\", I wouldn't doubt it\nTook her through the Hills at noon, she felt the (And how wonderful, how wonderful)\nBaby girl think she in Honolu' (Wonderful)\nDon't you know you in the I-5 loop? (How wonderful)\nHow many chickens fit in the coupe? (How wonderful, wonderful)\nWonderful, she don't wanna leave\nShe jump up, bounce back like trampoline (Have you ever been lost?)\nYou might also like\n\nAyo, whip the cocaine 'til the pot bust ('Til the pot bust, ah)\nYou was on the porch, I was locked up (I was locked up, ah)\nTwo-tone Maybach truck with the MAC-12 (Skrrt, MAC-12)\nThink a nigga shot somethin' (Ah)\nPut it to your face, watch a motherfucker blow (Boo-boo-boo-boo-boom)\nDaytona, different color face on the Ro' (Ah)\nTen on his head, he be dead by the mornin' (By the mornin')\nI can get thirty for the stove (Ah)\nDior trench shit hang to the floor (Ah)\nDior goggles, I ain't playin' with you hoes (Uh-uh)\nOut in South Beach with the poles in the Rolls (Skrrt, boo-boo-boo-boo-boom)\nGood to see ya dudes, alligators on the toes (Ah)\nFashion week, I almost tripped two bitches (Ah)\nHundred-round drum, make a nigga go get it (Make a nigga go get it, grrt)\nJohn L. Sullivan, bucket while we drillin' (Boo-boo-boo-boo-boom)\nHad to sneak my new Glock up in Lenox (Ah)\nFree Sly Green, he got Wayne Perry digits\nSocks Burberry, dick sucks on the visit (Ah, brrt, boo-boo-boo-boo-boom)\n\nFirst one to pop, first to earn the stripes (Stripes)\nThree strikes in, twenty-five to life (Uh-uh)\nHyping up the building, hyping up the sights (Sights)\nWhip got the wings of angel kit\nI been wanting this shit my whole life, I didn't pray for it\nShe want me to come into his house but I can't kick it\nShe want the whole dub-dub E, but I ain't convinced\nNever met her she, but she met Sheck, she don't need a prince\nTook her off the O into the D, she ain't take offense\nWay we got it bouncin' off the boards we making prints\nWait until I step into the floor and then they commence30Embed"
+   }
+  },
+  {
+   "number": 16,
+   "song": {
+    "_type": "song",
+    "annotation_count": 30,
+    "api_path": "/songs/9368451",
+    "artist_names": "Travis Scott (Ft. Kid Cudi)",
+    "full_title": "LOOOVE by\u00a0Travis\u00a0Scott (Ft.\u00a0Kid\u00a0Cudi)",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9368451,
+    "instrumental": false,
+    "lyrics_owner_id": 10155270,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1730308740,
+    "path": "/Travis-scott-looove-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 11,
+    "relationships_index_url": "https://genius.com/Travis-scott-looove-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 21,
+     "hot": false,
+     "pageviews": 288477
+    },
+    "title": "LOOOVE",
+    "title_with_featured": "LOOOVE (Ft.\u00a0Kid\u00a0Cudi)",
+    "updated_by_human_at": 1730308741,
+    "url": "https://genius.com/Travis-scott-looove-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/68",
+      "header_image_url": "https://images.genius.com/7f6ecfae5e5c0023ca686116cca96993.990x660x1.jpg",
+      "id": 68,
+      "image_url": "https://images.genius.com/26da54297be506aeebdbff03306223ad.640x640x1.jpg",
+      "index_character": "k",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Kid Cudi",
+      "slug": "Kid-cudi",
+      "url": "https://genius.com/artists/Kid-cudi",
+      "iq": 738
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "158 ContributorsTranslationsEspa\u00f1olPortugu\u00eas\u0420\u0443\u0441\u0441\u043a\u0438\u0439\ud55c\uad6d\uc5b4DeutschLOOOVE Lyrics\nI get it, I get it, I get it, love\nThey love me, they love me, love me long time\nI get it, I get it, I get it, love\nThey love me, they love me, love me long time\nI get it, I get it, I get it, love\nThey love me, they love me, love me long time (Long time, long time)\nI get it, I get it, I get it, love\nThey love me, they love me, love me long time (Long time, long time)\n\nY'all feel, y'all feel like that?\nY'all feel, y'all feel like that?\n\nThey give me, they give me love, they love the Scott\nThey love how the disc rock, they lovin' the Jac'\nNo Wi-Fi, we hot spottin', connected the block\nRollin' through the club, we feelin' the love\nIller than my trees, they jockin' my steeze, please\nFive hundred degrees, nigga, who hotter than me? (Bitches, yeah)\n\nY'all feel, y'all feel like that?\nY'all feel, y'all feel like that?\nYou might also like\nThey love me, love me, love me, yeah, they love me long time\nThey love me, they love me, love to show me love (Love)\nThey love me, love me, love me, yeah, they love me long time\nThey love me, they love me, love to show me love (Love)\n\nY'all feel, y'all feel like that?\nY'all feel, y'all feel like that?\n\nCome and kick back with us\nThis a new religion, come and have mass with us\nTell me, have you made love to a bachelor-turned-ambassador?\nUsed to grow up in the backwoods\nCome take a ride with the real, it's the last of us\nWe gon' make them Vogue bitches turn racheter\nFirst task, 'nihilate, you used to laugh at us\nPass the Actavis 'cause a nigga past passivist\nImagine my world of misogyny\nNigga, fuck a, fuck a monogamy\nGot her head tipped over the driver's seat\nMeet me, don't go tell my mama 'bout this, baby\nHold up, we gon' own the summer\nNever, never stressin', no, we always hit the numbers\nCuzzo always stressin', always cuffin' different numbers\nKnow he tired of makin' shit, you know the streets don't make diplomas\nDrunk somethin', tryna find my keys\nI find myself lookin' down at the stars, the bees\nThe stars align, remember when it was Ramadan\nMight try a line, might try some crime, might try to dime\nBut now it's time\nBaby, now it's time, na-na-na-na-na\nNa-na-na-na-na, na-na-na-na-na\nI get the love and they givin' it up like\nI get it, I get it, I get it, love\nThey love me, they love me, love me long time\nI get it, I get it, I get it, love\nThey love me, they love me, love me long time (Time, time)\nI get it, I get it, I get it, love\nThey love me, they love me, love me long time (Long time, long time)\nI get it, I get it, I get it, love\nThey love me, they love me, love me long time (Long time, long time)\n\nY'all feel, y'all feel like that?\nY'all feel, y'all feel like that?\n\nIt's on fire toni\u2014\n\nThe night is too young and the love in the air, it hit me\nFollow all the vibes, I'm in every city\nGamble with your life, thinkin' 'bout it woday\nTell ya homie chill tonight, you don't want it with him\nWe raise our glasses, the madness\nThe tiny waist, the asses, dancin' in trances\nBaby say she ready and we 'bout to find out\nDon't be mad that your girl done found 'bout\nAnd we get it\nNever lied, rager-fied, on a mission\nAnd they lookin' like they know, but they didn't\nLet me slip into my mode, I slip round the notes\nSmokin' plenty with tequila, baby\nMembers of The Rage runway with it\nFashion week in Paris, front row with it\nDiamonds always dancin', no bullshittin'\nSee a Black god on the job, yeah, I'm so winnin'11Embed"
+   }
+  },
+  {
+   "number": 17,
+   "song": {
+    "_type": "song",
+    "annotation_count": 24,
+    "api_path": "/songs/9175638",
+    "artist_names": "Travis Scott (Ft. Bad Bunny & The Weeknd)",
+    "full_title": "K-POP by\u00a0Travis\u00a0Scott (Ft.\u00a0Bad\u00a0Bunny & The\u00a0Weeknd)",
+    "header_image_thumbnail_url": "https://images.genius.com/4fe1c24df070e8063ee14d75d95ae616.300x300x1.png",
+    "header_image_url": "https://images.genius.com/4fe1c24df070e8063ee14d75d95ae616.1000x1000x1.png",
+    "id": 9175638,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1727813872,
+    "path": "/Travis-scott-k-pop-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 15,
+    "relationships_index_url": "https://genius.com/Travis-scott-k-pop-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 21
+    },
+    "release_date_for_display": "July 21, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 21, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/4fe1c24df070e8063ee14d75d95ae616.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/4fe1c24df070e8063ee14d75d95ae616.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 13,
+     "hot": false,
+     "pageviews": 674968
+    },
+    "title": "K-POP",
+    "title_with_featured": "K-POP (Ft.\u00a0Bad\u00a0Bunny & The\u00a0Weeknd)",
+    "updated_by_human_at": 1730788103,
+    "url": "https://genius.com/Travis-scott-k-pop-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/690350",
+      "header_image_url": "https://images.genius.com/031d4b35117898f2d747bcbe9fa0bc8c.356x200x1.webp",
+      "id": 690350,
+      "image_url": "https://images.genius.com/0ea040e0667876c960bf50e6ea7517fe.736x736x1.png",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Bunny",
+      "slug": "Bad-bunny",
+      "url": "https://genius.com/artists/Bad-bunny"
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/2358",
+      "header_image_url": "https://images.genius.com/4f53cc8d9d521bf6a1c5b37b8867ccef.1000x333x1.jpg",
+      "id": 2358,
+      "image_url": "https://images.genius.com/e4e92d3a1d504ab2f38cd8da26c9fd2a.1000x1000x1.jpg",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "The Weeknd",
+      "slug": "The-weeknd",
+      "url": "https://genius.com/artists/The-weeknd",
+      "iq": 17086
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "193 ContributorsTranslationsEspa\u00f1olPortugu\u00easT\u00fcrk\u00e7eDeutsch\u0420\u0443\u0441\u0441\u043a\u0438\u0439\ud55c\uad6d\uc5b4K-POP Lyrics\nGonna pop, baby\nVemo'\n\nSwish, lit (Lit)\nMove that shit out here (Here)\nYou full off one sip (Sip)\nFallin' off but I got grip (Grip)\nAll around the trap, it hit (Hit, hit, ayy)\nAll around the map, you trip (Skrrt)\nTake it like nine out of ten (Yeah)\nThink they gon' find that again\nThink I gotta bond out again\nBehind the tint, I sin, I vent\nCan't forget about that place we went\nRight after you put that in my head\nDo you still pop 'em? Do you dance?\nDo you still drop some'? Know you can\nI got a lot, but I'm still chancin'\n\nYeah-yeah, yeah, yeah\nHace tiempo no te veo, eh\nEs que ahora en Miami jangueo, eh, eh\nYa no tengo la Rodeo\nAhora en la G-Wagon me posteo, ey\nY te lo meto al frente 'e la playa\nComo aquello' tiempo' de camino a Maya\nT\u00fa ni fumaba' y chingando te arrebat\u00e9\nDale, no pierdas tiempo, no lo piense', tr\u00e9pate\nT\u00fa bien loca, loca, yo bien loco, loco\nSi ahora tu mai nos pilla, me pide una foto\nLa nota me explota, el ticke' lo exploto\nVamo' pa' Cayo Musha, ya le texte\u00e9 al piloto, eh-eh\nYou might also like\nI know it was one time (Swish)\nYou feel like that went on (Went on)\nThat night was just so fire\nI need you back sooner (Sooner)\nYou come back on this side\nWhen shit get back cooler (Cooler)\nWe run it back one time\nI'm grabbin' you uno (Uno)\n\nOoh (Uno)\nOoh-ooh (Mm-mm, mm-mm)\nOoh (Mm-mm, mm-mm)\nOoh-yeah (Mm-mm)\n\nMix the drugs with the pain\nLet the waves lead the way\nYou in Cannes and Saint-Tropez callin' out my name\nYou know I'm rolling my face off\nYou know I'm high off that K pop\nRubbin' up on your body\nAll your clothes, you gon' take off\nSouth of France, we gon' party\nThis ain't some lil' yachty\nWe gon' fuck 'til we seasick (Skrrt)\nYou my bad lil' mami, mami (Yeah)\nYou love me, you could tell me you love me\nEven if you don't mean it (Mm-mm)\nSex'll make you believe it (Mm-mm)\nI love it when she up on me (Mm-mm)\nLove when she'll call me, \"Papi\" (Mm-mm)\nEven though she Korean (Mm-mm)\nGet her wet like tsunami, 'nami, ooh, yeah (Yeah-yeah, yeah, yeah)\nI know it was one time (Swish)\nYou feel like that went on (Went on)\nThat night was just so fire\nI need you back sooner (Sooner)\nYou come back on this side\nWhen shit get back cooler (Cooler)\nWe run it back one time\nI'm grabbin' you uno\n\nYeah-yeah, yeah, yeah (Uno)15Embed"
+   }
+  },
+  {
+   "number": 18,
+   "song": {
+    "_type": "song",
+    "annotation_count": 43,
+    "api_path": "/songs/9368456",
+    "artist_names": "Travis Scott (Ft. Future & SZA)",
+    "full_title": "TELEKINESIS by\u00a0Travis\u00a0Scott (Ft.\u00a0Future & SZA)",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9368456,
+    "instrumental": false,
+    "lyrics_owner_id": 10445617,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1729520128,
+    "path": "/Travis-scott-telekinesis-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 22,
+    "relationships_index_url": "https://genius.com/Travis-scott-telekinesis-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 27,
+     "hot": false,
+     "pageviews": 715284
+    },
+    "title": "TELEKINESIS",
+    "title_with_featured": "TELEKINESIS (Ft.\u00a0Future & SZA)",
+    "updated_by_human_at": 1730788117,
+    "url": "https://genius.com/Travis-scott-telekinesis-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41579",
+      "header_image_url": "https://images.genius.com/35f251a9b697812fc6fa7e1fc3b144d9.1000x1000x1.jpg",
+      "id": 41579,
+      "image_url": "https://images.genius.com/c4afa603906452118e2cf171af859133.510x510x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "SZA",
+      "slug": "Sza",
+      "url": "https://genius.com/artists/Sza",
+      "iq": 6450
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/2197",
+      "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+      "id": 2197,
+      "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+      "index_character": "f",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Future",
+      "slug": "Future",
+      "url": "https://genius.com/artists/Future",
+      "iq": 4956
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "203 ContributorsTranslationsEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00eas\ud55c\uad6d\uc5b4DeutschTELEKINESIS Lyrics\nUsed to wanna fuck an R&B bitch, then that shit happened (Yeah, yeah, Pluto)\nUsed to wanna be rich, then it finally happened\nThought it'd make me happy (Thought it'd make me happy)\n\nI could've took the pain and I could've went out sad\nStreets stepped in and raised me, but I ain't have my daddy\nNiggas tryna clone me, run off with my swag\nFrom sellin' coco, got Chanel on my jacket (Jacket)\nShawty give me mop with the less, it don't last (Last)\nTakin' more drugs all alone in a mansion (All alone)\nWalkin' around tweakin' with the yop in my hands (Walkin' around tweakin')\nJust another broke ho just pr\u0435achin' for these bands (Just another ho)\nAnd I know I'm du\u0435 for a billion-dollar advance (Uh-huh)\n\nI can see the future, I can see the future (I can see the future)\nI can see the future, it's lookin' like we leveled through the sky\nI can't wait to live in glory in eternal lastin' life (Livin' in glory)\nWon't you take the wheel? And I recline and I sit still\nMight as well turn up now, He gon' pop up unannounced\nTo the trumpets, do you like the way it sounds? (Like the way it sound)\n\nYou know the future of the bounce, ayy\nI can hear your thoughts so loud, I can hear the crowd so loud\nDo you like the way it sounds? Ayy\nI can hear your thoughts so loud, I can hear the crowd so loud (So loud), loud\nYou might also like\nI can see the future\nRide with Wolf and Storm' and some troopers\nRidin' through this shit, this shit is stupid, uh\nSky walkin' 'round like I'm Luke-uh\nDuckin' all these convos like I'm Bruce-uh, super\nMobbin' with my angels dodgin' Lucifer (Mob)\nSeein' every angle, I can see through ya, yeah (Yeah)\n\nI can see the future, it's lookin' like we leveled through the sky (See enough)\nI can't wait to live in glory in eternal lastin' life (Livin' in glory)\nWon't you take the wheel? And (See enough) I recline and I sit still\nMight as well turn up now, He gon' pop up unannounced\nTo the trumpets, do you like the way it sounds?\nYou know the future of the bounce\n\nCount so much money 'til my skin peel\nCherry-red Benz like the real pimp (Yeah)\nMy bro cook up dope, it take real skill\nShare my bitch with my ho, ain't got no chill (No)\nYou either gettin' to money or you're gossipin' (Yeah)\nShe chose up, put on this coat, now she lottery\n\nPlaces I thought I'd never go I fly models in\nI hear the demons clear when they callin' (Yeah)\nFlyest on the Earth, so I had to name myself a planet (Pluto)\nAutomatic dead when you goin' against my family\nFew breakups went public, I just bought another baddie (Bought another baddie)\nBitch knew I was toxic, when she met me, I was a savage (Met me, I was a savage)\nHigh in the hills tryna avoid any madness (Yeah)\nPrivate on the Lear, this just like we imagined\nOnly settlin' for this Hi-Tech 'cause I ain't got the Actavis (Yeah)\nI'm tryna be modest (Ah), it sound like I'm braggin' (Braggin')\nCartier my frames (Frames), all because my fame (Fame)\nBitch said she ashamed to love me in public, rather go private (See enough)\nCount so much money 'til my skin peel\nCherry-red Benz like the real pimp\nMy bro cook up dope, it take real skill\nShare my bitch with my ho, ain't got no chill\nYou either gettin' to money or you're gossipin'\nShe chose up, put on this coat, now she lottery\n\nI can see the future, it's lookin' like we leveled through the sky\nI can't wait to live in glory in eternal lastin' life\nWon't you take the wheel? And I recline and I sit still\nMight as well turn up now, He gon' pop up unannounced\nTo the trumpets, do you like the way it sounds?\n\nI can't get enough, told you I just want it all\nI can't get enough, you ain't been doin' enough (Do you like the way it sounds?)\nSo cold, so cold\nIt's so cold, so cold, so cold\n\nYou could see the future, there's a sparkle in your eye\nWhy you all up on my thigh? Can't let you\nNiggas plottin' my demise, I got murder on my mind\nI got money on the line, I can't lose if I tried\nLet no bitch break my stride\nChosen, I'm gon' bet on me\nChosen, all my shit antique\nFrozen, I can't feel no heat\nDiamonds dancing on me\nYou startin' fresh, man, you fell out of pocket\nYou fucked that girl that you met at the party\nI got some new niggas down in the lobby\nHow can I sleep when you're out catchin' bodies?\nI still wanna be with you, trust me, I know that's insane\nI'd rather fuck on you than fuck on lames\nI did some shit in Berlin, I'm OD\nWe both ain't shit and it's workin' for me\nWorkin' for me, yeah\nI can see the future, I can see the future22Embed"
+   }
+  },
+  {
+   "number": 19,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/9354764",
+    "artist_names": "Travis Scott (Ft. 21 Savage & James Blake)",
+    "full_title": "TIL FURTHER NOTICE by\u00a0Travis\u00a0Scott (Ft.\u00a021\u00a0Savage & James\u00a0Blake)",
+    "header_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "id": 9354764,
+    "instrumental": false,
+    "lyrics_owner_id": 9387139,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1728152434,
+    "path": "/Travis-scott-til-further-notice-lyrics",
+    "primary_artist_names": "Travis Scott",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/Travis-scott-til-further-notice-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/93c577bcd2cce45a2e7063978bcb3b1a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 461702
+    },
+    "title": "TIL FURTHER NOTICE",
+    "title_with_featured": "TIL FURTHER NOTICE (Ft.\u00a021\u00a0Savage & James\u00a0Blake)",
+    "updated_by_human_at": 1728152434,
+    "url": "https://genius.com/Travis-scott-til-further-notice-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/13298",
+      "header_image_url": "https://images.genius.com/395a9a6632b306670a9d47ceed87272e.925x925x1.jpg",
+      "id": 13298,
+      "image_url": "https://images.genius.com/99cca98fac2aa8240b9392bc914197e6.820x820x1.jpg",
+      "index_character": "j",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "James Blake",
+      "slug": "James-blake",
+      "url": "https://genius.com/artists/James-blake",
+      "iq": 1572
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/430404",
+      "header_image_url": "https://images.genius.com/ca7f0c28fcb360b23961ffdcc51c3663.949x1000x1.jpg",
+      "id": 430404,
+      "image_url": "https://images.genius.com/a188cbf4daabb522911e8b5bf18b9e5c.979x979x1.jpg",
+      "index_character": "0",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "21 Savage",
+      "slug": "21-savage",
+      "url": "https://genius.com/artists/21-savage",
+      "iq": 5975
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20185",
+     "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+     "id": 20185,
+     "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Travis Scott",
+     "slug": "Travis-scott",
+     "url": "https://genius.com/artists/Travis-scott",
+     "iq": 6452
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20185",
+      "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+      "id": 20185,
+      "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Travis Scott",
+      "slug": "Travis-scott",
+      "url": "https://genius.com/artists/Travis-scott",
+      "iq": 6452
+     }
+    ],
+    "artist": "Travis Scott",
+    "lyrics": "125 ContributorsTranslationsEspa\u00f1olPortugu\u00eas\u0420\u0443\u0441\u0441\u043a\u0438\u0439\ud55c\uad6d\uc5b4DeutschItalianoTIL FURTHER NOTICE Lyrics\nWhere will you go now\nNow that you're done with me?\nWhere will you go now\nNow that you're done with me?\nI don't blame you\nYou should be done with me\nI don't blame you\nYou should be done\n\nWhy won't you even talk about it?\nOr even hear about it?\nOr even feel about it? (Metro)\nLike the covers come off in the heat\nWe don't have to lie\nWe don't have to lie right here\nAnd it's alright\nI should've waited somehow\nI shouldn't have pushed so hard\nI always push too hard\nAnd now it's just a blackout\nAnd now it's just a blackout\n(Somehow)\n\nMy mama always told me, \"Put yourself first\"\nI don't really fall in love with women, man, 'cause love hurt\nI hit a couple broads, I can't lie, I put my dick first\nNow you runnin' 'round playin' payback and that shit hurt\nI should've treated you better (21)\nUsed to deal with lames 'til she ran into a stepper (On God)\nBig dawg Savage, I'm a Zone 6 repper (21)\nNiggas throwin' salt, but the Draco came with pepper (Straight up)\nShe say we ain't goin' nowhere 'cause all I do is sext her (On God)\nWoah, never knew that I had to propose, no (21)\nI was fine with you bein' one of my hoes, for sure (On God)\nShe said she seen us bein' somebody goals, what are those? (21)\nI thought about givin' you the key to my heart, but it's froze\nYou might also like\nWhere would you go now\nNow that you're done with me?\nWhere would you go now\nNow that you're done with me?\nWhere would you go now\nNow that you're done with me?\nWhere would you go now\nNow that you're done with me?\n'Til further notice (Ah-ah)\n'Til further notice (Ah-ah)\n'Til further notice (We'll keep you posted, ah-ah)\n'Til further notice (We'll keep you posted)\n\n(Ooh) If energy makes energy\nX-rated love, X-rated love\nIf energy makes energy, makes energy\nX-rated love, X-rated love (Mm, ha, ha)\n\nYou know the love was X-rated, it's how we made it\nDrinkin' help balance the patience, watch how you take it\nCan't keep no bitches, it's too dangerous, I been X-rated\nTook everything up for the takin', I couldn't save it\nSee red and blues, I hit the pavement\nGot low, got vacant\nShe needed angles, I need angels\nI'm fightin' Satan\nLeave me faded, I feel painless\nI go out gracious\nI'm tryna feel the shade of greatness by celebratin'\nBring entertainment, goin' brainless, like goin' dumb on my hiatus\nShe fall more in love every time that I tip\nI fade away every time that I\nTake a sip, I been goin' off the rip\nI been bumpin' more Coldplay, the world cold as shit\nI know one thing 'bout the old one, can have more fun with it\nKnew exactly how to roll one and how to tote a stick\nEven if she at the shows, so she never let 'em hit\nAlways knew she always on one and I can bare with it\nYeah, I can bare with it\nWhere will you go now\nNow that you're done with me?\nWhere will you go now\nNow that you're done with me?\nWhere will you go now\nNow that you're done with me?\nWhere will you go now\nNow that you're done with me?\n'Til further notice\n'Til further notice\n'Til further notice (We'll keep you posted)\n'Til further notice (We'll keep you posted)18Embed"
+   }
+  }
+ ]
+}
